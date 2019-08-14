@@ -1,0 +1,29 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "爬虫学习 by nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ximendatie/crawler.git"
+  },
+  "keywords": [
+    "web",
+    "crawler"
+  ],
+  "author": "harvey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ximendatie/crawler/issues"
+  },
+  "homepage": "https://github.com/ximendatie/crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "nightmare": "^3.0.2",
+    "superagent": "^5.1.0"
+  }
+}
